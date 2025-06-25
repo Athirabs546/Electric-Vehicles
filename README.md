@@ -1,5 +1,9 @@
 # ⚡ Electric Vehicle Insights Dashboard
 
+## 📁 Power BI Dashboard
+
+💾 [Download Dashboard (.pbix)](Electric_Vehicles.pbix)
+
 ## 📊 Project Overview
 This project focuses on analyzing a dataset of electric vehicle (EV) registrations to build an interactive Power BI dashboard. The aim is to extract meaningful insights about EV adoption, types, geographical distribution, and pricing.
 
